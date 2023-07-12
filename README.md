@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on unlimited video streaming by AI
+# Currently:
+I am currently working on a business management system using the Laravel framework. I am excited to face all the needs and problems in this project, as I believe that Laravel is a powerful tool that can be used to create a robust and scalable system.
 
 
 ## 🌐 Socials:
